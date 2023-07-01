@@ -44,5 +44,3 @@ parallax_el.forEach((el) => {
 
 });
 
-
-
